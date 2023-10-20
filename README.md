@@ -1,0 +1,2 @@
+# EmojiReactBot
+Discord bot 🖤🤍
